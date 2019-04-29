@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git #部署方式
-  repository: https://github.com/hqzh/hexo-blog.git #关联github仓库
+  repository: git@github.com:hqzh/hexo-blog.git #关联github仓库
   branch: run-page #部署分支
